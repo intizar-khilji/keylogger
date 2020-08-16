@@ -1,0 +1,6 @@
+keylogger using python 3
+required module pynput
+install pynput
+
+windows - pip install pynput
+linux and mac - pip3 install pynput
